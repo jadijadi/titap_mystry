@@ -1,9 +1,13 @@
-So you started your journey! But the fan in the office is set on 16 and you need need a WARM jacket to survive in this freezer! look for it at your home directory at the end of this chain:
 
+So you started your journey! But fist things first.
+
+The FAN at the office is set on 16 degrees and you need a WARM JACKET to survive in this freezer! 
+To find you jacket, go here and read the file:
 
 ~ ── you
    └── wont
        └── find
            └── it
                ├── warm.jacket
+
 
