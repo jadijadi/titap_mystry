@@ -120,7 +120,7 @@
 172.16.31.104 - - [02/Jul/2014:17:51:45 +0430] "GET /favicon.ico HTTP/1.1" 404 502 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
 172.16.30.101 - - [02/Jul/2014:16:00:26 +0430] "GET / HTTP/1.1" 403 496 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0"
 172.16.30.101 - - [02/Jul/2014:16:00:26 +0430] "GET /favicon.ico HTTP/1.1" 403 506 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0"
-how many lines does this file have? find it and go the same directory at your home/numbers/ and ckeck the notes file there. So if this file has "313" lines you have to go to your home, numbers/313/ and check the file there.
+how many lines does this file have? find it and go the same directory at your home/numbers/ and ckeck the notes file there. So if this file has "313" lines you have to go to your home, numbers/313/ and check the file there. Remeber that reading files with "less" is much easier that using "cat".
 172.16.30.101 - - [02/Jul/2014:16:00:26 +0430] "GET /favicon.ico HTTP/1.1" 403 506 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0"
 172.16.31.94 - - [02/Jul/2014:16:00:40 +0430] "GET / HTTP/1.1" 403 496 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36"
 172.16.31.94 - - [02/Jul/2014:16:00:40 +0430] "GET /favicon.ico HTTP/1.1" 403 506 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36"

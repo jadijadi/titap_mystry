@@ -49,7 +49,9 @@ Be Direct, Act based on what you want and enjoy your life :D Here is a classic s
               :IOOOOOOO$+             
 
 
-Goodluck with your linux lessons,
+Goodluck with your linux lessons and do not forget to change yours password with "passwd" command.
+
+Yours,
 Jadi
 
 
