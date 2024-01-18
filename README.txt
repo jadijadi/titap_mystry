@@ -9,6 +9,7 @@ Follow the clues/notes and you will find what you WANT!
 
 here is your first clue: go into the NEWEST directory (ooni ke ba'd az hame sakhte shode) and check the file "note.txt".
 
+it is a simple game to learn linux
 
 
 
